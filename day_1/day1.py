@@ -1,3 +1,6 @@
+#Code by: Srushti Shimpi
+#Hackerank Dat 1 Challange
+
 i = 4
 d = 4.0
 s = 'HackerRank '
