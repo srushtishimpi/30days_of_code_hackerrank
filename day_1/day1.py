@@ -1,5 +1,5 @@
 #Code by: Srushti Shimpi
-#Hackerank Day 1 Challange
+#Hackerrank Day 1 Challange
 
 i = 4
 d = 4.0
