@@ -1,5 +1,5 @@
-
-
+#Code by: Srushti Shimpi
+#Hackerank Day 2 Challange
 
 #!/bin/python3
 
