@@ -1,5 +1,5 @@
 #Code by: Srushti Shimpi
-#Hackerank Day 0 Challange
+#Hackerrank Day 0 Challange
 
 # Take input from stdin and save it to our dynamically typed variable, input_string.
 input_string = input()
