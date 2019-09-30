@@ -1,6 +1,6 @@
   
 #Code by: Srushti Shimpi
-#Hackerrank Day 6 Challange
+#Hackerrank Day 8 Challange
 
 import math
 import os
