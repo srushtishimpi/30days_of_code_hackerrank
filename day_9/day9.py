@@ -13,7 +13,6 @@ import sys
 
 n = int(input())
 
-# Complete the factorial function below.
 def factorial(n):
     if(n==0):
         return 1
